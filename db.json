@@ -1,0 +1,37 @@
+{
+    "name1": "Mesa",
+    "image1": "<img src='mesa.jpg'  width='100px'>",
+    "category1": "Móveis",
+    "describe1": "Mesa de jantar com 6 cadeiras",
+    "price1": "R$29.90",
+
+    
+    "name2": "Cama",
+    "image2": "<img src='cama.jpg' width='100px'>",
+    "category2": "Móveis",
+    "describe2": "Cama de casal com colchão",
+    "price2": "R$15.00",
+
+    
+    "name3": "Sofá",
+    "image3": "<img src='sofa.jpg' width='100px'>",
+    "category3": "Móveis",
+    "describe3": "Sofá com 3 lugares",
+    "price3": "R$1.00",
+
+
+    "name4": "Geladeira",
+    "image4": "<img src='geladeira.jpg' width='100px'>",
+    "category4": "Eletrodomésticos",
+    "describe4": "Geladeira frost-free",
+    "price4": "R$899.90",
+
+
+    "name5": "Escrivaninha",
+    "image5": "<img src='escrivaninha.jpg' width='100px'>",
+    "category5": "Móveis",
+    "describe5": "Escrivaninha com 2 gavetas",
+    "price5": "R$199.90"
+
+
+}
